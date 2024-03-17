@@ -22,6 +22,18 @@ $ cd test_repo
 $ echo "Hell, World!" > greet.txt
 ```
 
+# Check status
+
+```
+$ python3 ~/Documents/git-in-python/main.py status
+On branch master
+
+
+Untracked files:
+    greet.txt
+
+```
+
 # Add file
 
 ```
